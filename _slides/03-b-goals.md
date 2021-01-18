@@ -6,7 +6,14 @@ transition: zoom
 
 - We need protocols!
 - What is a protocol?
-- Break into groups and try to communicate!
+  - Can you think of some examples?
+- We will have a class exercise in which we develop a protocol to communicate.
+
+<!--
+Everyone try to speak at once - how to avoid collisions?
+What do we do when a collision occurs?
+Why can't we talk to each other to coordinate?
+-->
 
 <!--
 Re-order a message
